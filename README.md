@@ -1,1 +1,2 @@
-# suchetana_Infinite_runner
+# INFINITE-RUNNER-GAME
+Game
